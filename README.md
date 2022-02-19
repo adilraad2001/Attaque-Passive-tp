@@ -1,9 +1,7 @@
 # Attaque-Passive-tp
 ![](Aspose.Words.bce648ce-6129-47ee-bed7-e2d02a2a22c0.001.png)![](Aspose.Words.bce648ce-6129-47ee-bed7-e2d02a2a22c0.002.png)
 
-[Date]  ![](Aspose.Words.bce648ce-6129-47ee-bed7-e2d02a2a22c0.003.png)![](Aspose.Words.bce648ce-6129-47ee-bed7-e2d02a2a22c0.004.png)![](Aspose.Words.bce648ce-6129-47ee-bed7-e2d02a2a22c0.005.png)![](Aspose.Words.bce648ce-6129-47ee-bed7-e2d02a2a22c0.006.png)
-
-![](Aspose.Words.bce648ce-6129-47ee-bed7-e2d02a2a22c0.007.jpeg)
+[2/19/2022]  ![](Aspose.Words.bce648ce-6129-47ee-bed7-e2d02a2a22c0.003.png)![](Aspose.Words.bce648ce-6129-47ee-bed7-e2d02a2a22c0.004.png)![](Aspose.Words.bce648ce-6129-47ee-bed7-e2d02a2a22c0.005.png)
 
 *REALISER PAR : ZINEB EL RHAZOUANI SAID EL OUARDI  ![](Aspose.Words.bce648ce-6129-47ee-bed7-e2d02a2a22c0.008.png)ADIL ERRAD*  
 
