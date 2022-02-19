@@ -50,14 +50,14 @@ l’entête TCP
 
 hexadécimal 
 
-- La compilation et l’execution du fichier C. ![](Aspose.Words.bce648ce-6129-47ee-bed7-e2d02a2a22c0.012.png)![](Aspose.Words.bce648ce-6129-47ee-bed7-e2d02a2a22c0.013.png)
+- La compilation et l’execution du fichier C. ![](Aspose.Words.bce648ce-6129-47ee-bed7-e2d02a2a22c0.013.png)
 - Execution des 10 premières images reçues
 
-![](Aspose.Words.bce648ce-6129-47ee-bed7-e2d02a2a22c0.014.png)![](Aspose.Words.bce648ce-6129-47ee-bed7-e2d02a2a22c0.015.jpeg)
+![](Aspose.Words.bce648ce-6129-47ee-bed7-e2d02a2a22c0.015.jpeg)
 
 - l’affichage du contenu de l’entête ETHERNET et la recompilation , Execution des 10 premières images reçues
 
-![](Aspose.Words.bce648ce-6129-47ee-bed7-e2d02a2a22c0.016.png)![](Aspose.Words.bce648ce-6129-47ee-bed7-e2d02a2a22c0.017.jpeg)
+![](Aspose.Words.bce648ce-6129-47ee-bed7-e2d02a2a22c0.017.jpeg)
 
 - l’Affichagedu  contenu des entêtes des protocoles des niveaux supérieurs, la recompilation , Execution des 10 premières images reçues 
 
